@@ -1,5 +1,5 @@
 # Chat-with-Dataframe
-Chat with Dataframe - Streamlit Chatbot using Langchian Agent and Ollama | Generative AI | LLM
+Chat with Dataframe - Streamlit Chatbot using Langchian Agent and Ollama | Generative AI | LLM.
 The chatbot processes user-uploaded data by displaying a preview of the data frame, which allows users to ask questions.
 An agent invokes a language model that generates relevant Python code, producing answers based on the data provided.
 The chatbot allows users to upload CSV or Excel files, which it reads and converts into a Pandas DataFrame, enabling interactive querying of the data.
